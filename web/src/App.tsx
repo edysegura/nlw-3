@@ -1,9 +1,15 @@
 import React from 'react';
 
+function Title() {
+  return (
+    <h1>Hello NLW3</h1>
+  )
+}
+
 function App() {
   return (
     <div className="App">
-      <h1>Hi there!</h1>
+      <Title />
     </div>
   );
 }
