@@ -15,6 +15,13 @@ function App() {
           <h1>Bring the happiness to the world</h1>
           <p>Pay a visit to the orphanage and change the day of children</p>
         </main>
+
+        <div className="location">
+          <strong>Santa Rita</strong>
+          <span>Minas Gerais</span>
+        </div>
+
+        <a href="#home" className="enter-app"> Enter </a>
       </div>
     </div>
   );
